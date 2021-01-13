@@ -1,0 +1,20 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "湫曗 <autumnsilverleaves@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "serve": "vite"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.0.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.0.0-beta.26"
+  },
+  "dependencies": {
+    "dayjs": "1.9.0",
+    "element-plus": "^1.0.1-beta.24",
+    "vue": "^3.0.5"
+  }
+}

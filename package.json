@@ -1,0 +1,14 @@
+{
+  "name": "element-plus-dayjs-issue-reproduce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "湫曗 <autumnsilverleaves@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "serve":"yarn workspace app serve"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
